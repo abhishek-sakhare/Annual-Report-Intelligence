@@ -1,0 +1,18 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# API keys and secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data and generated indexes
+data/
+vector_store/
+
+# Streamlit settings
+.streamlit/secrets.toml
