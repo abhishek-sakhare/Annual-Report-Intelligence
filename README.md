@@ -2,6 +2,9 @@
 
 A **Retrieval-Augmented Generation (RAG)** application that allows users to interact with company annual reports using natural-language questions. The system retrieves relevant information from unstructured PDF documents and uses an LLM to generate context-grounded responses.
 
+Live :- https://annual-report-intelligence.streamlit.app/
+
+
 ## 🚀 Project Overview
 
 Company annual reports contain large amounts of financial, operational, and strategic information spread across hundreds of pages. Manually searching through these documents can be time-consuming.
